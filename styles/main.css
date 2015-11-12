@@ -22,7 +22,7 @@ body {
 }
 
 .notice {
-  background: #663399;
+  background: rgba(59, 51, 153, 0.15);
   color: #F62459;
   padding: 10px 0px 10px 0px;
   margin: 0;
